@@ -7,4 +7,5 @@
 日本股票行情API接口
 韩国股票行情API接口
 越南股票行情API接口
+尼日利亚股票行情API接口
 访问http://cn.psbangu.cn/
